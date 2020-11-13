@@ -1,12 +1,10 @@
 <template>
-  <v-app> </v-app>
+  <v-container> </v-container>
 </template>
 
 <script>
 export default {
-  name: "haskap-panel",
-
-  components: {},
+  name: "Home",
 
   data: () => ({}),
 };
